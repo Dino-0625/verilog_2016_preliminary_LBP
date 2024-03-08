@@ -1,0 +1,19 @@
+ftp帳號(FTP number): 
+
+通過gate-level simulation之cell area report：7159
+通過gate-level simulation之clock cycle time (ns)：8
+
+--- RTL category---
+使用之HDL模擬器名稱(HDL simulator ):  
+RTL檔案名稱(RTL filename):  LBP.v          
+
+--- Pre-layout gate-level ---
+gate-level檔案名稱(gate_level filename): LBP_syn.v  
+gate-level sdf filename:  LBP_syn.sdf                 
+design compiler合成資料庫(dc library): LBP_syn.ddc    
+
+-----注意事項(annotation)--------------------------------------------------------
+ (其餘注意事項依各參賽隊伍的需求填寫)
+
+area 7159
+timing 1524144

@@ -1,0 +1,81 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/verilog/20231223_2016contest/B_ICC2016_preliminary_grad_cell-based/Exercise
+vLBP
+Z1 !s110 1703422386
+!i10b 1
+!s100 8NAXKlPY6:8]K6hmn6UCY1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Id7<ohCKU=R5ViGjMVoXME1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1703336224
+8C:/verilog/20231223_2016contest/B_ICC2016_preliminary_grad_cell-based/Exercise/LBP.v
+FC:/verilog/20231223_2016contest/B_ICC2016_preliminary_grad_cell-based/Exercise/LBP.v
+!i122 2
+L0 3 175
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1703422386.000000
+!s107 C:/verilog/20231223_2016contest/B_ICC2016_preliminary_grad_cell-based/Exercise/LBP.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/verilog/20231223_2016contest/B_ICC2016_preliminary_grad_cell-based/Exercise/LBP.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@l@b@p
+vlbp_mem
+R1
+!i10b 1
+!s100 Gb;Fg]GK2TJjZJR6:Mege2
+R2
+In6ORFzODbG4DVEF@QTVMQ0
+R3
+R0
+Z8 w1703339874
+Z9 8C:/verilog/20231223_2016contest/B_ICC2016_preliminary_grad_cell-based/Exercise/testfixture.v
+Z10 FC:/verilog/20231223_2016contest/B_ICC2016_preliminary_grad_cell-based/Exercise/testfixture.v
+!i122 3
+L0 134 17
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/verilog/20231223_2016contest/B_ICC2016_preliminary_grad_cell-based/Exercise/testfixture.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|C:/verilog/20231223_2016contest/B_ICC2016_preliminary_grad_cell-based/Exercise/testfixture.v|
+!i113 1
+R6
+R7
+vtestfixture
+R1
+!i10b 1
+!s100 @I@[o<08ZKa^UKMTRQH@U3
+R2
+IB<>d^g2<d;[hThD8<^6]M3
+R3
+R0
+R8
+R9
+R10
+!i122 3
+L0 10 122
+R4
+r1
+!s85 0
+31
+R5
+Z12 !s107 C:/verilog/20231223_2016contest/B_ICC2016_preliminary_grad_cell-based/Exercise/testfixture.v|
+R11
+!i113 1
+R6
+R7
